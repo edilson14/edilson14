@@ -9,7 +9,7 @@ const  alwaysLearning = true;
 - 📚 Estudante de Engenharia de Computação no [IFCE](https://ifce.edu.br/fortaleza)
 - 📚 Estudando
 - <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-- 💻 Atualmente trabalho no [Nepen](https://www.nepen.org.br/)
+
 
   - <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS">
 
@@ -19,3 +19,5 @@ const  alwaysLearning = true;
 
 - 📫 Contato
   - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>](https://www.linkedin.com/in/edilson14/)[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>](https://gitlab.com/edilson14)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilson14&theme=dracula)    ![Edilson Tavares GitHub Status](https://github-readme-stats.vercel.app/api?username=edilson14&count_private=true&show_icons=true&theme=dracula)
