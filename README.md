@@ -6,12 +6,12 @@ const  alwaysLearning = true;
 
 - 🏠 São Domingos - Santiago - Cabo Verde 🇨🇻
 - 📍 Fortaleza - Ceará - Brasil 🇧🇷
+- 💻 Desenvolvedor Mobile| Flutter - [DevNology](https://devnology.com.br/)
 - 📚 Estudante de Engenharia de Computação no [IFCE](https://ifce.edu.br/fortaleza)
-- 📚 Estudando
+- 📚 Trabalho
 - <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 
-
-  - <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS">
+ - <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS">
 
 - Experência
 
